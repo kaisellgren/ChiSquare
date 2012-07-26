@@ -8,6 +8,12 @@ Ideally this float should have a value of 0.5. If so, the given Buffer contained
 
 Read on [Chi-square distribution](http://en.wikipedia.org/wiki/Chi-square_distribution) for more details.
 
+## What's the point?
+
+You can use this library to determine if your random data source produces good random data.
+There are a wide variety of ways to measure random data quality (such as arithmetic mean, entropy frequencies, monte carlo simulations, etc.), but among all of them,
+calculating the chi square distribution over the random data reveals much more.
+
 ## Installation
 
 ```npm install chi-square```
