@@ -1,0 +1,33 @@
+{
+    "name": "ChiSquare",
+    "version": "0.0.1",
+    "description": "Chi-square distribution calculator.",
+    "main": "lib/chi-square.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/kaisellgren/ChiSquare.git"
+    },
+    "keywords": [
+        "χ²",
+        "chi",
+        "distribution",
+        "probability",
+        "mathematics",
+        "chi square"
+    ],
+    "author": {
+        "name": "Kai Sellgren"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/kaisellgren/ChiSquare/raw/master/LICENSE"
+        }
+    ],
+    "devDependencies": {
+        "nodeunit": "*"
+    },
+    "engine": {
+        "node": ">=0.8"
+    }
+}
