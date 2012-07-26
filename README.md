@@ -8,10 +8,14 @@ Ideally this float should have a value of 0.5. If so, the given Buffer contained
 
 Read on [Chi-square distribution](http://en.wikipedia.org/wiki/Chi-square_distribution) for more details.
 
+## Installation
+
+```npm install chi-square```
+
 ## Examples
 
 ```javascript
-var chiSquare = require('ChiSquare'),
+var chiSquare = require('chi-square'),
     crypto = require('crypto');
 
 crypto.randomBytes(1024 * 1024, function(err, buffer) {

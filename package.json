@@ -1,5 +1,5 @@
 {
-    "name": "ChiSquare",
+    "name": "chi-square",
     "version": "0.0.1",
     "description": "Chi-square distribution calculator.",
     "main": "lib/chi-square.js",
