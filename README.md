@@ -39,7 +39,7 @@ The chi square distribution over the random data sequence was: 0.361751853848255
 
 Since the output was quite close to 0.5, the distribution was quite uniform and thus the generated random data seems to be rather good.
 
-Your results may vary based on the platform and other factors (the state used to generated seeds for instance).
+Your results may vary based on the platform, the random source and other factors (entropy pool).
 
 ## License
 The library is licensed under MIT.
